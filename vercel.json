@@ -1,0 +1,5 @@
+{
+  "installCommand": "cd acabados-app && npm install",
+  "buildCommand": "cd acabados-app && npm run build",
+  "outputDirectory": "acabados-app/dist"
+}
